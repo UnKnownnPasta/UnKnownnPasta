@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to UnKnownnPasta's GitHub!
 
-<!--
-**UnKnownnPasta/UnKnownnPasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m <span style="color: 'blue';">UnKnownnPasta</span>, an undergraduate student passionate about coding and web development. In my free time, I love building apps, websites, and exploring new tech stacks.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: JavaScript, Python
+- **Frontend Development**: HTML, CSS, JavaScript
+- **Backend Development**: Node.js
+- **Frameworks**: Express, Flask
+- **Other**: Tkinter for Python GUI apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥 Projects
+- **[NotAETools](#)**: A Javascript Discord bot for managing video game things.
+- **[TreasuryFrame](#)**: An [Overwolf](https://www.overwolf.com) Web App for Warframe.
+
+## 🌱 What I'm Learning
+- Enhancing my skills in full-stack development.
+- Working on algorithms and improving problem-solving skills.
+
+## 💬 Reach Me
+- GitHub: [UnKnownnPasta](https://github.com/UnKnownnPasta)
+
+Thanks for visiting! Feel free to explore my repositories.

@@ -6,7 +6,7 @@
 - **Languages**: JavaScript, Python
 - **Frontend Development**: HTML, CSS, JavaScript
 - **Backend Development**: Node.js
-- **Frameworks**: Express, Flask
+- **Frameworks**: Express, React, Flask, React + Vite
 - **Other**: Tkinter for Python GUI apps
 
 ## 🖥 Projects
@@ -16,6 +16,7 @@
 ## 🌱 What I'm Learning
 - Enhancing my skills in full-stack development.
 - Working on algorithms and improving problem-solving skills.
+- Learning how AI works and trying to make AI models.
 
 ## 💬 Reach Me
 - GitHub: [UnKnownnPasta](https://github.com/UnKnownnPasta)

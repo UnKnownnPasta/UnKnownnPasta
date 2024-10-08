@@ -10,8 +10,8 @@
 - **Other**: Tkinter for Python GUI apps
 
 ## 🖥 Projects
-- **[NotAETools](#)**: A Javascript Discord bot for managing video game things.
-- **[TreasuryFrame](#)**: An [Overwolf](https://www.overwolf.com) Web App for Warframe.
+- **[NotAETools](https://github.com/UnKnownnPasta/NotAETools)**: A Javascript Discord bot for managing video game things.
+- **[TreasuryFrame](https://github.com/UnKnownnPasta/TreasuryFrame)**: An [Overwolf](https://www.overwolf.com) Web App for Warframe.
 
 ## 🌱 What I'm Learning
 - Enhancing my skills in full-stack development.
